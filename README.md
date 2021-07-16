@@ -1,6 +1,6 @@
 <h2>Moon Motor Car Exchange Project</h2>
 
-<p>This is an online vehicle marketplace dealing exclusively in antique Moon Motor Cars.  This project was written in Java, HTML, and CSS in a Spring MVC framework as partial fulfillment of requirements for Claim Academy’s Java Full Stack Developer curriculum.
+<p>This is an online vehicle marketplace dealing exclusively in antique Moon Motor Cars.  This project was written in Java, HTML, and CSS in a Spring MVC framework as partial fulfillment of requirements for Claim Academy’s Java Full Stack Software Developer program.
 
 Members are prompted to register or log-in in order to participate fully in the Moon Motor Car Exchange.  Members have the following options:
 
