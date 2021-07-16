@@ -34,8 +34,7 @@ Many thanks goes out to:
 <ol>
 <li>Brad Hussey (https://www.bradhussey.ca/) and his Udemy course <em>“Build Websites from Scratch with HTML & CSS,”</em> which helped me out immensely in building out the front-end of this project.</li>
 <li>Lamar Myles, instructor with Claim Academy, and student mentor Brandon Owens.  They helped me work through Spring MVC territory with which I was unfamiliar and they continue to provide world-class support.</li>
-<li>Moon Car Club (https://mooncarclub.com/) for providing wonderful vintage stock photos and information on this unique period of automobile history.  I probably got a few things wrong, but I attempted to remain as faithful as possible to the real world (e.g.: assigning value to preloaded cars).</li>
-<li>Dylan Wright for distracting the pug while I work.</li> 
+<li>Moon Car Club (https://mooncarclub.com/) for providing wonderful vintage stock photos and information on this unique period of automobile history.  I probably got a few things wrong, but I attempted to remain as faithful as possible to the real world (e.g.: assigning value to preloaded cars).</li> 
 </ol>
 
 
